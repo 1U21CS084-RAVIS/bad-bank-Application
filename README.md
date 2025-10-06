@@ -1,4 +1,3 @@
-
 # Bad Bank Project
 
 A simple React-based banking application developed as part of the MIT Fullstack Development with MERN program.
@@ -39,17 +38,21 @@ ChartJS
 
 git clone https://github.com/prakashRpk/Bad-bank-project.git
 
+
 ### Navigate into the project directory:
 
 cd Bad-bank-project
+
 
 ### Install dependencies:
 
 npm install
 
+
 ### Start the development server:
 
 npm start
+
 
 Open http://localhost:3000
  in your browser to view the application.
@@ -91,6 +94,3 @@ Student at MIT Fullstack Development with MERN
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-
-
